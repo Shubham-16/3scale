@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Template
 metadata:
-  name: 3scale-gateway
+  name: 3scalegateway
   annotations:
     description: "3scale API Gateway"
     iconClass: "icon-load-balancer"
